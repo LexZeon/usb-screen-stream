@@ -1,0 +1,16 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.example.usbscreenstream"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.example.usbscreenstream"
+        minSdk 29
+        targetSdk 33
+        versionCode 100
+        versionName "1.0.0"
+    }
+}
