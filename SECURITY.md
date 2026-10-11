@@ -8,7 +8,7 @@
 
 ## Reporting A Vulnerability
 
-Please open a private security advisory on GitHub if the repository is hosted there. If private advisories are not available, open a minimal public issue that says you want to report a security issue without posting exploit details.
+Please open a private security advisory on GitHub if the repository is hosted there. If private advisories are not available, email [lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com) without posting exploit details in public issues.
 
 Useful details:
 

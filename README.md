@@ -166,6 +166,10 @@ Issues and pull requests are welcome. Please include:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
 
+## Contact
+
+Contact LexZeon: [lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com).
+
 ---
 
 # USB Screen Stream 中文说明
@@ -247,3 +251,7 @@ USB Screen Stream 是一个通过 USB 数据线把安卓屏幕低延迟显示到
 ## 反馈和贡献
 
 欢迎提交 issue 和 pull request。反馈问题时请尽量提供手机型号、Android 版本、Windows 版本、是否使用隐私空间、客户端参数，以及 `scripts/diagnose-usb.ps1` 的输出。
+
+## 联系方式
+
+联系 LexZeon：[lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com)。

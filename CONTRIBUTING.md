@@ -55,3 +55,7 @@ Please include:
 - What the Android app shows.
 - What the Windows client status says.
 - Output from `scripts/diagnose-usb.ps1`.
+
+## Contact
+
+Contact LexZeon: [lexzeonstudio@gmail.com](mailto:lexzeonstudio@gmail.com).
